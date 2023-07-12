@@ -21,3 +21,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+#echo "# ReactFilmes" >> README.md 
+#git init 
+#git add README.md 
+#git commit -m "first commit" 
+#git branch -M main 
+#git remote add origin https://github.com/BrunoMazzoni2023/ReactFilmes.git
+# git push - sua origem principal
+
+# ou envie um repositório existente a partir da linha de comando
+#git remote add origin https://github.com/BrunoMazzoni2023/ReactFilmes.git
+# git branch -M main 
+#git push -u origin main
